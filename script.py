@@ -30,7 +30,7 @@ def scrape_data_point():
         data_point = "" if target_element is None else target_element.text
         soup_2 = bs4.BeautifulSoup(data_point, "html.parser")
         target_element_2 = soup_2.find("a")
-        data_point_2 = "" if target_element_2 is None else target_element_2
+        data_point_2 = "" if target_element_2 is None else target_element_2.text
         loguru.logger.info(f"Data point: {data_point_2}")
         return data_point_2
 
