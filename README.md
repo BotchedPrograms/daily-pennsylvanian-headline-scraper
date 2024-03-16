@@ -4,6 +4,6 @@ I wanted to scrape headlines from the Health section, so I changed the requested
 
 ## Minimal Information
 
-Title: Basic Git Scraper
-Description: Scrapes headlines from the Daily Pennsylvanian's Health section
+Title: Basic Git Scraper,
+Description: Scrapes headlines from the Daily Pennsylvanian's Health section,
 Author: Andy Li
