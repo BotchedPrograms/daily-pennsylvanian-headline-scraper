@@ -6,10 +6,10 @@ I wanted to scrape headlines from the Health section, so I changed the requested
 
 ### Title
 
-Basic Git Scraper,
+Basic Git Scraper
 
 ### Description
-Scrapes headlines from the Daily Pennsylvanian's Health section,
+Scrapes headlines from the Daily Pennsylvanian's Health section
 
 ### Author
 Andy Li
